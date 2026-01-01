@@ -8,4 +8,4 @@ Spells
 		For some, spellcasting is second nature, and those people have forgone the verbal element. This act has been dubbed as silent-casting. A common practice to train silent-casting is Prestidigitation, as it requires both a verbal and somatic component. It also forces the user to imagine what the outcome will be.
 
 Scrolls
-	 Scrolls are the result of harnessing spells and imbuing them into parchment. First pitched by the peasant Skullgrymm family of Eretelle, the prodigal son, Archall attempted its creation. First iterations were made by inscribing glyphs of warding into parchment, but later refined to a much simpler version. The current creation method uses a highly modified version of glyph of warding that is kept somewhat secret.
+	 Scrolls are the result of harnessing spells and imbuing them into parchment. First pitched by the peasant Grymm family of Eretelle, the prodigal son, Aldrich attempted its creation. First iterations were made by inscribing glyphs of warding into parchment, but later refined to a much simpler version. The current creation method uses a highly modified version of glyph of warding that is kept somewhat secret.
