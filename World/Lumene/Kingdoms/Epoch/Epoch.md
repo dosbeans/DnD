@@ -1,0 +1,1 @@
+The people of Epoch are called stupid.

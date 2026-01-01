@@ -1,0 +1,3 @@
+Where [[Light]] came from is unknown, but the first documented use was at [[Morgana]] in year 0. An overwrought man sung and played his lute in the basement of his store. The sounds and emotions combined and awakened a dormant power in the man; the instrument burst into flames, ingulfing it. This was the first, and most raw use of Light. ^352b24
+Shortly following this event, two bright stars appeared in the sky. Both shone a vibrant, otherworldly hue, and seemed as if they would dance in the night sky.
+This event is what triggered [[The First Flame 0-443.FL]].

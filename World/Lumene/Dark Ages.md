@@ -1,0 +1,1 @@
+Not much is known about the Dark Ages, for most of its written history was destroyed or never written in the first place. During this time, all major land masses were connected, yet no early civilizations helped each other. Gildesh was yet named this and went by many different names depending on its monarch.

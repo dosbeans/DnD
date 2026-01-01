@@ -1,0 +1,1 @@
+The people of Rimefall are called Rimeborn.
