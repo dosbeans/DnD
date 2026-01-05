@@ -7,7 +7,6 @@ image:
 name: Perseus Valkyr
 size: Medium
 type: Humanoid
-subtype: 
 alignment: Chaotic Neutral
 ac: 16
 hp: Number
@@ -28,10 +27,6 @@ condition_immunities: "frightened, prone, restrained"
 senses: "Passive Perception 10, Passive Insight 16"
 languages: Common
 cr: 20
-spells:
-  - 
-  - 
-  -  
 traits:
   - name: "Morgana's Wrath (3/Day)"
     desc: "If the man fails a saving throw, he can choose to succeed instead."
