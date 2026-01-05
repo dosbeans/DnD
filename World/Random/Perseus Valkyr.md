@@ -1,5 +1,5 @@
 
-Perseus Valkyr is the strongest warrior of [[The First Flame 0-443.FL|The First Flame]] 
+The strongest warrior during [[The First Flame 0-443.FL|The First Flame]]. 
 
 ```statblock
 layout: Basic 5e Layout
