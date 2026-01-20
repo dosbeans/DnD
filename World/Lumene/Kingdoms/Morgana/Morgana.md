@@ -1,1 +1,1 @@
-The people of Morgana are called Morganan.
+The people of Morgana are called Morganan. The king is protected by 12 holy knights
